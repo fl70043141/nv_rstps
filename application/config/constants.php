@@ -23,8 +23,8 @@ defined('SHOW_DEBUG_BACKTRACE') OR define('SHOW_DEBUG_BACKTRACE', TRUE);
 | of this setting
 |
 */
-define('SYSTEM_NAME', 'NVELOOP POS');
-define('SYSTEM_CODE', 'NV_POS_1');
+define('SYSTEM_NAME', 'ICE POS');
+define('SYSTEM_CODE', 'NV_POS_RSTRNT_1');
 define('SYSTEM_SHOTR_NAME', 'NV POS');
 define('SYSTEM_POWERED_BY', 'Nveloop Solution');
 define('SYS_DATE_FORMAT', 'm/d/Y');

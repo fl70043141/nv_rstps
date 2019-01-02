@@ -314,7 +314,7 @@ $(document).ready(function(){
                                         $('#first_col_form').removeClass('col-md-offset-1');
                                         var div_str = '<div class="col-md-2">'+
                                                                 '<div class="form-group pad">'+
-                                                                    '<label for="item_quantity">Weight<span id="unit_abbr"></span></label>'+
+                                                                    '<label for="item_quantity">Quantity<span id="unit_abbr"></span></label>'+
                                                                     '<input   name="item_quantity" class="form-control add_item_inpt" id="item_quantity" placeholder="Enter Quantity">'+
                                                                 '</div>'+
                                                             '</div>';
@@ -377,7 +377,7 @@ $(document).ready(function(){
                              $('#first_col_form').removeClass('col-md-offset-1');
                             var div_str = '<div class="col-md-2">'+
                                                     '<div class="form-group pad">'+
-                                                        '<label for="item_quantity">Weight <span id="unit_abbr">[Each]<span> <input id="item_quantity_partial" name="item_quantity_partial" type="checkbox" value="1"></label>'+
+                                                        '<label for="item_quantity">Quantity <span id="unit_abbr">[Each]<span> <input id="item_quantity_partial" name="item_quantity_partial" type="checkbox" value="1"></label>'+
                                                         '<input readonly name="item_quantity" class="form-control add_item_inpt" id="item_quantity" placeholder="Enter Quantity">'+
                                                     '</div>'+
                                                 '</div>';
